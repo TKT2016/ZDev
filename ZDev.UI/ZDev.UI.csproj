@@ -282,7 +282,10 @@
     <Content Include="res\StopHS.png" />
     <Content Include="res\Undo.png" />
     <Content Include="res\Warning.png" />
-    <Content Include="TKT说明.txt">
+    <Content Include="zdev截图.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZDev说明.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
